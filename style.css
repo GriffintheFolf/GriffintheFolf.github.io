@@ -92,6 +92,19 @@ nav *
   border-radius: 500px;
 }
 
+.copyright
+{
+  position: fixed;
+  bottom: 0;
+
+  max-width: 10%;
+}
+
+.copyright a
+{
+  color: white;
+}
+
 /* image showcase */
 .imageshowcase
 {
