@@ -37,13 +37,24 @@ h1
   margin-bottom: 0.5em;
 }
 
+/* links */
+a
+{
+  text-decoration: none;
+  color: dodgerblue;
+}
+
+a:hover
+{
+  color: #e16f00; /* opposite of dodgerblue */
+}
+
 /* navigation */
 
 nav
 {
   background-color: darkgrey;
   border-right: 5px solid white;
-  text-align: center;
 
   position: fixed;
   display: block;
@@ -68,10 +79,12 @@ nav *
 {
   font-family: "Yanone Kaffeesatz", sans-serif;
   font-size: 3em;
+  text-align: center;
 
   /*margin-left: auto;
   margin-right: auto;*/
   margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 #logo
