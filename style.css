@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Yanone+Kaffeesatz:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&family=Yanone+Kaffeesatz:wght@400;700&display=swap");
 
 html
 {
@@ -130,4 +130,15 @@ main
   left: 12%;
   width: auto;
   height: 100%;
+}
+
+/* miscellaneous */
+code
+{
+  font-family: "Roboto Mono", monospace;
+}
+
+.code
+{
+  font-family: "Roboto Mono", monospace;
 }
