@@ -1,7 +1,7 @@
 The source of the website, that is the HTML files, CSS stylesheets,
 and other related files, are licensed under the MIT Licence described below:
 
-Copyright (c) 2021 Thomas Sirack
+Copyright (c) 2021-2022 Thomas Sirack
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -27,4 +27,5 @@ Any images on the site MAY NOT BE REDISTRIBUTED without my prior permission
 UNLESS OTHERWISE NOTED.
 
 Furthermore, any software that may be distributed or linked to here
-is subject to its respective licensing terms. These will always be provided.
+is subject to its respective licensing terms. These will always be provided
+wherever possible.
